@@ -1,0 +1,52 @@
+
+
+.imgg{
+    filter: brightness(30%);
+}
+
+.middle {
+    position: absolute;
+    text-align: center;
+    color: white;
+    bottom: 50px;
+    left: 500px;
+  }
+  .conatiner2{
+      border:1px solid black;
+      border-radius: 15px;
+      padding: 20px;
+    width: 30%;
+    height: 450px;
+    position: absolute;
+    /* text-align: center; */
+    margin: 0%;
+    left: 500px;
+    top: 200px;
+
+  }
+  .donate {
+    background-color: black;
+    color: black;
+    border: 2px solid #ffff;
+    /* border: none; */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .headin{
+      font-family: sans-serif;
+      position: absolute;
+      top: 120px;
+      left: 540px;
+  }
+
+  .pay{
+      position: absolute;
+      left: 200px;
+  }
